@@ -27,6 +27,9 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       <b>3,855 visitors</b> from 127 countries.
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <img src="images/esat-practice.jpg" alt="ESAT Practice" />
