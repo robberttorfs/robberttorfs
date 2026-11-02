@@ -39,7 +39,7 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       <b>3,233 questions</b> answered by me and my friends.
     </td>
     <td width="50%" valign="top">
-      <img src="images/aria.jpg" alt="Aria" />
+      <img src="images/aria-home.jpg" alt="Aria" />
       <h3>Aria</h3>
       A music streaming app that makes playlists for you with AI, does all the normal stuff too, and looks really nice.
       <br /><br />
