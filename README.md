@@ -1,4 +1,4 @@
-## Hi, I'm Robbert
+## Hi, I'm Robbert. I make things, sometimes they work.
 
 <img src="images/me.jpg" alt="Me, very surprised" width="170" align="right" />
 
