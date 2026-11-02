@@ -1,12 +1,10 @@
 ## Hi, I'm Robbert <sub><sup>(yes, two b's)</sup></sub>
 
-<img src="images/me.jpg" alt="Me, very surprised" width="170" align="right" />
+<img src="images/me.jpg" alt="Me, very surprised" width="150" align="right" />
 
 I'm a student developer. I'm Belgian, but I grew up in Dubai, and when I'm not building something I'm probably on a tennis court or playing football with my friends.
 
 Most of my projects start with "wait, could I make that?" and then Claude and I find out. Some days that's a whole game. Some days it's something tiny that's been annoying me, like getting the little screen on my headset's base station to show what song is playing. I make something new pretty much every day, mostly just for fun.
-
-<br clear="right" />
 
 ### Things I've built that real people use
 
