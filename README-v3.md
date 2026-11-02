@@ -6,31 +6,49 @@ I'm a student developer. I'm Belgian, but I grew up in Dubai, and when I'm not b
 
 Most of my projects start with "wait, could I make that?" and then Claude and I find out. Some days that's a whole game. Some days it's something tiny that's been annoying me, like getting the little screen on my headset's base station to show what song is playing. I make something new pretty much every day, mostly just for fun.
 
-### Some things I've made that people actually use
+<br clear="right" />
+
+### Things I've built that real people use
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://nichenaut.app"><img src="images/nichenaut.jpg" alt="Nichenaut" /></a>
-      <br /><b><a href="https://nichenaut.app">Nichenaut</a></b>
-      <br />A party game where the weirder your answer, the further you fly into space.
+      <h3><a href="https://nichenaut.app">Nichenaut</a></h3>
+      A party game where the weirder your answer, the further you fly into space.
+      <br /><br />
+      <b>21,000+ players</b> in its first month, and <b>£0</b> spent on ads.
+      <br /><br />
+      <sub><b>Under the hood:</b> live rooms run on Cloudflare Durable Objects over WebSockets, the site is Next.js on Vercel with Postgres, and an AI check judges answers that aren't on the lists yet.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.howengineswork.com"><img src="images/how-engines-work.jpg" alt="How Engines Work" /></a>
-      <br /><b><a href="https://www.howengineswork.com">How Engines Work</a></b>
-      <br />Cars, planes and engines explained with demos you can actually play with.
+      <h3><a href="https://www.howengineswork.com">How Engines Work</a></h3>
+      Cars, planes and engines explained with demos you can actually play with.
+      <br /><br />
+      <b>28 real-physics simulators</b>, and <b>3,855 visitors</b> from 127 countries.
+      <br /><br />
+      <sub><b>Under the hood:</b> every demo runs real physics in TypeScript (the aerofoil one is a little vortex-panel solver), not a pre-made animation.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="images/esat-practice.jpg" alt="ESAT Practice" />
-      <br /><b>ESAT Practice</b>
-      <br />Revision for the ESAT using real exam questions and timed mocks.
+      <h3>ESAT Practice</h3>
+      Revision for the ESAT using real exam questions and timed mocks.
+      <br /><br />
+      <b>1,042 real exam questions</b>, and <b>3,233</b> of them answered by me and my friends.
+      <br /><br />
+      <sub><b>Under the hood:</b> a Python script cuts every question straight out of the official PDFs, so nothing is retyped or made up by AI. Next.js and Supabase do the rest.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="images/aria.jpg" alt="Aria" />
-      <br /><b>Aria</b>
-      <br />A music streaming app that makes playlists for you with AI, does all the normal stuff too, and looks really nice.
+      <h3>Aria</h3>
+      A music streaming app that makes playlists for you with AI, does all the normal stuff too, and looks really nice.
+      <br /><br />
+      <b>Used every day</b> since August, on Windows and Mac.
+      <br /><br />
+      <sub><b>Under the hood:</b> an Electron app that streams songs through a local cache, so replays start instantly, and an AI curator that builds and edits playlists from normal sentences.</sub>
     </td>
   </tr>
 </table>
