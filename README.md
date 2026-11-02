@@ -1,6 +1,6 @@
-<img src="images/me.jpg" alt="Me, very surprised" width="170" align="right" />
-
 ## Hi, I'm Robbert
+
+<img src="images/me.jpg" alt="Me, very surprised" width="170" align="right" />
 
 I'm a student developer. I'm Belgian, but I grew up in Dubai, and when I'm not building something I'm probably on a tennis court.
 
@@ -25,7 +25,7 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
     <td width="50%" valign="top">
       <img src="images/esat-practice.jpg" alt="ESAT Practice" />
       <br /><b>ESAT Practice</b>
-      <br />Revision for the ESAT using real exam questions, with timed mocks and a rough score out of 9.
+      <br />Revision for the ESAT using real exam questions and timed mocks.
     </td>
     <td width="50%" valign="top">
       <img src="images/aria.jpg" alt="Aria" />
