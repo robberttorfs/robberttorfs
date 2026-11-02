@@ -18,8 +18,6 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       A party game where the weirder your answer, the further you fly into space.
       <br /><br />
       <b>21,000+ players</b> in its first month.
-      <br /><br />
-      <sub><b>Under the hood:</b> Live multiplayer rooms run on Cloudflare over WebSockets, and an AI check judges answers that aren't on the lists yet.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.howengineswork.com"><img src="images/how-engines-work.jpg" alt="How Engines Work" /></a>
@@ -27,8 +25,6 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       Cars, planes and engines explained with demos you can actually play with.
       <br /><br />
       <b>3,855 visitors</b> from 127 countries.
-      <br /><br />
-      <sub><b>Under the hood:</b> Every one of its 28 demos runs real physics in TypeScript, not a pre-made animation.</sub>
     </td>
   </tr>
 </table>
@@ -41,8 +37,6 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       Revision for the ESAT using real exam questions and timed mocks.
       <br /><br />
       <b>3,233 questions</b> answered by me and my friends.
-      <br /><br />
-      <sub><b>Under the hood:</b> A Python script cuts every question straight out of the official past papers, so nothing is retyped or made up.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="images/aria.jpg" alt="Aria" />
@@ -50,8 +44,6 @@ Most of my projects start with "wait, could I make that?" and then Claude and I 
       A music streaming app that makes playlists for you with AI, does all the normal stuff too, and looks really nice.
       <br /><br />
       <b>Used every day</b> since August.
-      <br /><br />
-      <sub><b>Under the hood:</b> Songs stream through a local cache so replays start instantly, and an AI curator edits playlists from normal sentences.</sub>
     </td>
   </tr>
 </table>
