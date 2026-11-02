@@ -1,4 +1,4 @@
-## Hi, I'm Robbert. I make things, sometimes they work.
+## Hi, I'm Robbert <sub><sup>(yes, two b's)</sup></sub>
 
 <img src="images/me.jpg" alt="Me, very surprised" width="170" align="right" />
 
